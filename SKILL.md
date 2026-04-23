@@ -1,6 +1,14 @@
 ---
 name: Paper Deconstructor — First Principles
-description: Use this skill when the user provides a research paper (PDF, DOI, arXiv link, or title) and wants to deeply understand it. This skill guides a structured knowledge tracing session: first mapping the paper's knowledge dependencies, then peeling back layers from frontier research to foundational science, then returning to the paper for full comprehension. Trigger when the user says things like "帮我拆解这篇论文", "我想读懂这篇文章", "从第一性原理理解这篇论文", "help me understand this paper from first principles", "deconstruct this paper", or "/deconstruct".
+description: >
+  Use this skill when the user provides a research paper (PDF, DOI, arXiv link,
+  or title) and wants to deeply understand it. This skill guides a structured
+  knowledge tracing session: first mapping the paper's knowledge dependencies,
+  then peeling back layers from frontier research to foundational science, then
+  returning to the paper for full comprehension. Trigger when the user says
+  things like "帮我拆解这篇论文", "我想读懂这篇文章", "从第一性原理理解这篇论文",
+  "help me understand this paper from first principles", "deconstruct this paper",
+  or "/deconstruct".
 invocation: auto
 version: "0.1"
 ---
